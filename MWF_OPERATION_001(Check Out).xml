@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<zsmart>
+    <Type>1</Type>
+    <ServiceName>MWF_OPERATION_001</ServiceName>
+    <Data>
+        <MERGE_TASK_ORDER_NO>W1609201518000000000911744</MERGE_TASK_ORDER_NO>
+        <OPER_DESC>Check Out</OPER_DESC>
+    </Data>
+</zsmart>

@@ -1,0 +1,41 @@
+{"appenders": [
+    {
+        "type": "console",
+        "layout": {
+            "type": "pattern",
+            "pattern": "%m"
+        },
+        "category": "app"
+    },{
+        "category": "success-file-appender",
+        "type": "file",
+        "filename": "success.log",
+        "maxLogSize": 1024000000,
+        "backups": 3,
+        "layout": {
+            "type": "pattern",
+            "pattern": "%m"
+        }
+    },{
+        "category": "error-file-appender",
+        "type": "file",
+        "filename": "error.log",
+        "maxLogSize": 1024000000,
+        "backups": 3,
+        "layout": {
+            "type": "pattern",
+            "pattern": "%m"
+        }
+    },{
+        "category": "debug-file-appender",
+        "type": "file",
+        "filename": "debug.log",
+        "maxLogSize": 1024000000,
+        "backups": 3,
+        "layout": {
+            "type": "pattern",
+            "pattern": "%m"
+        }
+    }
+],
+"replaceConsole": false }

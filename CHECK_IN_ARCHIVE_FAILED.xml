@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<zsmart>
+    <Type>1</Type>
+    <ServiceName>uip_OrdOper</ServiceName>
+    <Data>
+        <SITE_NO>101</SITE_NO>
+        <STAFF_NO>113160</STAFF_NO>
+        <STAFF_JOB_ID>1</STAFF_JOB_ID>
+        <DISPATCH_CODE/>
+        <SERV_TYPE>OK_SUCCESSREVOKE</SERV_TYPE>
+        <INTERFACE_LIST>
+            <INTERFACE_ID>20161223103077950</INTERFACE_ID>
+            <OPER_STATE>-1</OPER_STATE>
+            <ORD_NO>20001095361949.1</ORD_NO>
+            <TASK_NO>W1612230854000000002200724</TASK_NO>
+            <SOURCE_ID>109</SOURCE_ID>
+            <OPER_CODE>SOM_WF_ERROR_00001</OPER_CODE>
+            <NOTES>Deal ExceptionOrderHandlingCallbackRspMsgMessage Receive Return Error,error_code:1211000309 error_info:Exception!The param is empty.@791089348</NOTES>
+            <WORKORDER_NAME>Internal Archiving</WORKORDER_NAME>
+            <WORKORDER_NO>W1612230854000000002200724</WORKORDER_NO>
+        </INTERFACE_LIST>
+    </Data>
+</zsmart>

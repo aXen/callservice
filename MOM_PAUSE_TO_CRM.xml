@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<zsmart>
+    <Type>1</Type>
+    <ServiceName>MOM_PAUSE_TO_CRM</ServiceName>
+    <Data>
+        <ORDER_NBR>20000767810747</ORDER_NBR>
+        <REASON>to pause</REASON>
+        <OPERATION_TYPE>1</OPERATION_TYPE>
+        <ASK_NO>20000767810746</ASK_NO>
+    </Data>
+</zsmart>

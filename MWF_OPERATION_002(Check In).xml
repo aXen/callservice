@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<zsmart>
+    <Type>1</Type>
+    <ServiceName>MWF_OPERATION_002</ServiceName>
+    <Data>
+        <OPER_DESC>Check In</OPER_DESC>
+        <MERGE_TASK_ORDER_NO>W1609201518000000000911744</MERGE_TASK_ORDER_NO>
+        <HANDLE_JOB_ID>1</HANDLE_JOB_ID>
+        <HANDLE_STAFF_JOB_ID>251972</HANDLE_STAFF_JOB_ID>
+        <HANDLE_STAFF_ID>113160</HANDLE_STAFF_ID>
+        <COMPLETE_DATE>2017-04-04 16:04:59</COMPLETE_DATE>
+        <RES_BO>
+            <HANDLE_STAFF_ID>113160</HANDLE_STAFF_ID>
+            <COMPLETE_DATE>2017-04-04 16:04:59</COMPLETE_DATE>
+        </RES_BO>
+        <NOTES>finished.</NOTES>
+    </Data>
+</zsmart>
